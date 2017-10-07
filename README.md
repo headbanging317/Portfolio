@@ -9,3 +9,8 @@ Link: [Google][googlelink]
 
 <a href="google.co.kr">Google<br>
 [Google2](http://google.co.kr)
+
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
